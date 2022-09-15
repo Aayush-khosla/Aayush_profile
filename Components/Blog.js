@@ -25,12 +25,11 @@ function Blog() {
                   jianbing microdosing tousled waistcoat.
                 </p>
                 <div class="flex items-center flex-wrap ">
-                  <Link
-                    href=""
-                    class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
-                  >
-                    Learn More
-                  </Link>
+                <Link
+                     href="blog/the-catalyzer"
+                      class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">
+                      Learn More
+                </Link>
                 </div>
               </div>
             </div>
