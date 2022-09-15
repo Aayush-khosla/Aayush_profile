@@ -51,5 +51,5 @@ export default function Home() {
       </div>
     <Blog/>
   </section>
-  )
-}
+  );
+};
